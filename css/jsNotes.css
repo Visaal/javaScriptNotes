@@ -2,3 +2,9 @@ body {
   /* font-family: Inconsolata; */
   font-family: "Inconsolata", monospace;
 }
+
+.customHeader {
+  font-family: monospace;
+  font-size: 50px;
+  color: gray;
+}
